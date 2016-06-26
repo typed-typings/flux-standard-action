@@ -1,4 +1,4 @@
-# Typed Flux Standard Action  [![Build Status](https://travis-ci.org/typed-typings/flux-standard-action.svg?branch=master)](https://travis-ci.org/typed-typings/flux-standard-action)
+# Typed Flux Standard Action  [![Build Status](https://travis-ci.org/typed-typings/npm-flux-standard-action.svg?branch=master)](https://travis-ci.org/typed-typings/npm-flux-standard-action)
 
 
 The type definition for [`flux-standard-action`](https://github.com/acdlite/flux-standard-action.git)
