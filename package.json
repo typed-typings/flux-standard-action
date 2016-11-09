@@ -2,7 +2,7 @@
   "name": "@types/flux-standard-action",
   "private": true,
   "scripts": {
-    "build": "echo building... && typings bundle -o out/lib/index.d.ts",
+    "build": "echo building... && typings bundle -o out/index.d.ts",
     "lint": "echo linting... && tslint \"**/*.ts\" -e \"source/**\" -e \"source-test/**\" -e \"out/**\" -e \"node_modules/**\" -e \"typings/**\"",
     "browser-test": "echo running browser tests... && echo no browser test",
     "source-test": "echo running source tests... &&  echo no source test",

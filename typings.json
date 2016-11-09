@@ -1,6 +1,6 @@
 {
   "name": "flux-standard-action",
-  "main": "lib/index.d.ts",
+  "main": "index.d.ts",
   "homepage": "https://github.com/acdlite/flux-standard-action",
   "version": "0.6.1",
   "globalDevDependencies": {

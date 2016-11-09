@@ -6,6 +6,6 @@
   "files": [
     "test.ts",
     "../typings/index.d.ts",
-    "../out/lib/index.d.ts"
+    "../out/index.d.ts"
   ]
 }
