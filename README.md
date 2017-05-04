@@ -1,5 +1,7 @@
 # Typed Flux Standard Action  [![Build Status](https://travis-ci.org/typed-typings/npm-flux-standard-action.svg?branch=master)](https://travis-ci.org/typed-typings/npm-flux-standard-action)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-flux-standard-action.svg)](https://greenkeeper.io/)
+
 
 The type definition for [`flux-standard-action`](https://github.com/acdlite/flux-standard-action.git)
 
